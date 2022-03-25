@@ -1,0 +1,15 @@
+C:\Users\luiz.queiroz\MyApp\suzan-lp3\bin\Debug\net6.0\suzan-lp3.exe
+C:\Users\luiz.queiroz\MyApp\suzan-lp3\bin\Debug\net6.0\suzan-lp3.deps.json
+C:\Users\luiz.queiroz\MyApp\suzan-lp3\bin\Debug\net6.0\suzan-lp3.runtimeconfig.json
+C:\Users\luiz.queiroz\MyApp\suzan-lp3\bin\Debug\net6.0\suzan-lp3.dll
+C:\Users\luiz.queiroz\MyApp\suzan-lp3\bin\Debug\net6.0\ref\suzan-lp3.dll
+C:\Users\luiz.queiroz\MyApp\suzan-lp3\bin\Debug\net6.0\suzan-lp3.pdb
+C:\Users\luiz.queiroz\MyApp\suzan-lp3\obj\Debug\net6.0\suzan-lp3.csproj.AssemblyReference.cache
+C:\Users\luiz.queiroz\MyApp\suzan-lp3\obj\Debug\net6.0\suzan-lp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiz.queiroz\MyApp\suzan-lp3\obj\Debug\net6.0\suzan-lp3.AssemblyInfoInputs.cache
+C:\Users\luiz.queiroz\MyApp\suzan-lp3\obj\Debug\net6.0\suzan-lp3.AssemblyInfo.cs
+C:\Users\luiz.queiroz\MyApp\suzan-lp3\obj\Debug\net6.0\suzan-lp3.csproj.CoreCompileInputs.cache
+C:\Users\luiz.queiroz\MyApp\suzan-lp3\obj\Debug\net6.0\suzan-lp3.dll
+C:\Users\luiz.queiroz\MyApp\suzan-lp3\obj\Debug\net6.0\ref\suzan-lp3.dll
+C:\Users\luiz.queiroz\MyApp\suzan-lp3\obj\Debug\net6.0\suzan-lp3.pdb
+C:\Users\luiz.queiroz\MyApp\suzan-lp3\obj\Debug\net6.0\suzan-lp3.genruntimeconfig.cache
